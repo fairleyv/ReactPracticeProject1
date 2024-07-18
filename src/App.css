@@ -4,6 +4,12 @@
 
 .logo {
 display: flex;
-color: orange;
+color: lightblue;
 margin-right: auto;
+}
+
+.logo h3 {
+  text-align: center;
+  white-space: nowrap;
+  margin-left: 15px;
 }
