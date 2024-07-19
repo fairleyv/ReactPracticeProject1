@@ -1,15 +1,36 @@
+body {
+  font-family: Inter, sans-serif;
+}
+
 .navbar {
-  display: flex
+  display: flex;
+  align-items: center;
+  background-color: #21222A;
+  height: 90px;
+  padding: 30px 25px;
 }
 
 .logo {
 display: flex;
-color: lightblue;
+color: #61DAFB;
 margin-right: auto;
+font-weight: 700;
+}
+
+.logo img {
+  width: 70px;
 }
 
 .logo h3 {
   text-align: center;
   white-space: nowrap;
   margin-left: 15px;
+  font-size: 40px;
+}
+
+.projectName {
+  color: #f4f4f4;
+  font-weight: 600;
+  font-size: 25px;
+
 }
