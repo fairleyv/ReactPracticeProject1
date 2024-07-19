@@ -8,7 +8,7 @@ export default function Navbar () {
                 <img src={reactLogo}/>
                 <h3>React Facts</h3>
             </div>
-            <div className="className=projectName">
+            <div className="projectName">
                 <h4>React Course - Project 1</h4>
             </div>
         </container>
